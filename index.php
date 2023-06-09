@@ -55,7 +55,7 @@
      <br><br>
      
      <footer>
-        Luis Medina (30.064.322)<br>
+        Diego Garcia (27.970.112)<br>
         Programación web (N1013)
      </footer>
  </body>
